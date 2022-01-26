@@ -61,5 +61,7 @@ The approach proposed in the code is composed by a Pretrained ResNet as a common
   </tr>
 </table>
 <img alt="Model Architechture"src=https://user-images.githubusercontent.com/45104686/151222567-25b48e10-4f67-4344-822f-94965ace2d83.PNG>
-# Usage
+
+## Usage
+
 The code is stored in the Jupiter file; every additional information regarding the code itself, can be seen directly in the code or in the report above.
