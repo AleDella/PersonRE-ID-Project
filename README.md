@@ -65,3 +65,9 @@ The approach proposed in the code is composed by a Pretrained ResNet as a common
 ## Usage
 
 The code is stored in the Jupiter file; every additional information regarding the code itself, can be seen directly in the code or in the report above.
+
+## Made By
+
+Alessio Dellasega https://github.com/AleDella
+Vincenzo Marco De Luca
+Matteo Zanella 
