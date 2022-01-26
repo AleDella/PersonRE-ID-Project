@@ -60,4 +60,4 @@ The approach proposed in the code is composed by a Pretrained ResNet as a common
    <th>Black, White, Pink, Purple, Yellow, Gray, Blue, Green, Brown, Multicolor</th>
   </tr>
 </table>
-![alt text]()
+![img](/assets/images/model.png)
