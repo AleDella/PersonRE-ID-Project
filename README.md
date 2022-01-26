@@ -4,7 +4,6 @@ This Repository contains a project for the exam of Deep Learning at University o
 The project consists in 2 main tasks:
 <li> Attribute Prediction </li>
 <li> Person Re-Identification </li>
-
 Given various images of different persons taken from different cameras (a version of Market-1501 Dataset), the model should try to predict a series of attributes associated with each image and produce similar embeddings for different images of the same person. 
 The approach proposed in the code is composed by a Pretrained ResNet as a common backbone to extract the common features from the images in order to create the embeddings; as a next step, the embeddings are fed into 12 different Convolutional heads for the attribute recognition task (one for each attribute of our list) and an additional head for the prediction of the Person ID associated with the input image. The possible attributes of an image are:
 <table>
@@ -61,3 +60,4 @@ The approach proposed in the code is composed by a Pretrained ResNet as a common
    <th>Black, White, Pink, Purple, Yellow, Gray, Blue, Green, Brown, Multicolor</th>
   </tr>
 </table>
+![alt text]()
