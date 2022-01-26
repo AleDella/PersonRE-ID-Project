@@ -1,4 +1,4 @@
-# PersonRE-ID-Project-
+# PersonRE-ID-Project
 This Repository contains a project for the exam of Deep Learning at University of Trento.
 
 The project consists in 2 main tasks:
