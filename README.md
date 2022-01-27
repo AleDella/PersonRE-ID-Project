@@ -75,6 +75,6 @@ The code is stored in the Jupiter file; every additional information regarding t
 
 Alessio Dellasega: https://github.com/AleDella
 
-Vincenzo Marco De Luca:
+Vincenzo Marco De Luca: https://github.com/vmdl
 
 Matteo Zanella: https://github.com/MatteoZanella
